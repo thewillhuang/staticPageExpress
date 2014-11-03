@@ -1,0 +1,16 @@
+#floor {
+  background-color: #eee;
+  background-image: url('wood.jpg');
+  height: 80%;
+  margin: 5%;
+}
+
+#mouse {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  background-image: url('mouse.jpeg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  /* TODO (2) replace the pink box with a picture of a mouse */
+}
